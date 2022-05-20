@@ -1,0 +1,85 @@
+div {
+    
+}
+
+.sticky {
+    position: sticky;
+}
+
+.youtube {
+    top: 690px;
+    height: 20%;
+}
+.img_center {
+    text-align: center;
+}
+
+.img_size {
+    width: 300px;
+}
+
+.sub-div {
+    height: 100px;
+    width: 300px;
+    text-align: center;
+}
+
+.icon_f {
+    font-size: 30px;
+}
+
+.icon_3 {
+    color:red;
+}
+
+
+
+.icon_2 {
+    color: purple;
+}
+
+.index {
+    z-index: 1;
+}
+
+
+
+.i-color {
+    color: black;
+}
+
+.rod3 {
+    color: red;
+}
+.rod2 {
+    color: purple;
+}
+.rod1 {
+    color: black;
+}
+
+
+@media screen and (max-width : 1400px) {
+    .sticky{
+    top: 690px;
+}
+
+@media screen and (max-width : 1200px) {
+    .sticky{
+    top: 690px;
+}
+    
+}
+@media screen and (max-width : 992px) {
+    .sticky{
+    top: 690px;
+}
+}
+
+@media screen and (max-width : 768px) {
+    .sticky{
+    top: 690px;
+}
+}
+
+
